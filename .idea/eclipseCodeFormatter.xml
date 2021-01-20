@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="eclipseVersion" value="CUSTOM" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="C:/dev373/wfsv6format.xml" />
+        <option name="pathToEclipse" value="C:/dev373/sts-bundle/sts-3.7.3.RELEASE" />
+        <option name="selectedJavaProfile" value="WFSv6" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
